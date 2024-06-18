@@ -27,7 +27,8 @@ twitter_username: nick_hugs
 github_username:  nicksdev
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 
